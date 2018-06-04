@@ -1,0 +1,75 @@
+/* ==== 
+www.freshdesignweb.com
+ ==== */
+
+/* ==== Google font ==== */
+@import url('http://fonts.googleapis.com/css?family=Raleway:400,900,700|Open+Sans:300,400,600,700');
+/* === fontawesome === */
+@import url('font-awesome.css');
+/* === custom icon === */
+body {
+  margin: 0;
+  font-family:'Open Sans', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 10px;
+  color: #333333;
+ background-image: url("images/header.jpg");
+}
+.bold {
+	font-weight:900;
+}
+
+/* --- header -- */
+header{
+	background: url(../header-pattern-07.jpg) repeat;
+	margin:0;
+	padding:0 0 20px;
+	position:relative;
+	z-index:2000;
+}
+
+/* --- menu --- */
+
+header .navigation {
+	float:right;
+}
+
+header ul.nav li {
+	border:none;
+	margin:0;
+}
+
+header ul.nav li a {	
+	border:none;
+	font-weight:400;
+}
+header ul.nav li ul {
+	z-index:1000;
+	margin-top:20px;
+}
+header ul.nav li ul li ul {
+	margin:1px 0 0 1px;
+}
+header ul.nav li a i {	
+	color:#83E1F1;
+}
+.container,
+.navbar-static-top .container{
+  width: 940px;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  *zoom: 1;
+}
+.container:before,
+.container:after {
+  display: table;
+  line-height: 0;
+  content: "";
+}
+
+.container:after {
+  clear: both;
+}
+

@@ -1,0 +1,10 @@
+-UNIT I INTRODUCTION
+-Mobile Computing- Mobile Computing Vs wireless Networking- Mobile Computing Applications - Characteristics of Mobile computing-Structure of Mobile Computing Application-MAC Protocols-Wireless MAC Issues-Fixed Assignment Schemes-Random Assignment Schemes-Reservation Based Schemes.
+-UNIT II MOBILE INTERNET PROTOCOL AND TRANSPORT LAYER
+-Overview of Mobile IP-Features of Mobile IP-Key Mechanism in Mobile IP-route Optimization-Overview of TCP/IP-Architecture of TCP/IP- Adaptation of TCP Window-Improvement in TCP Performance.
+-UNIT III MOBILE TELECOMMUNICATION SYSTEM 9
+-Global System for Mobile Communication (GSM)-General Packet Radio Service (GPRS) -Universal Mobile Telecommunication System (UMTS).
+-UNIT IV MOBILE ADHOC NETWORKS
+-AdHoc Basic Concepts-Characteristics-Applications-Design Issues-Routing-Essential of Traditional Routing Protocols-Popular Routing Protocols-Vehicular Ad Hoc networks ( VANET)-MANET Vs VANET-Security.
+-UNIT V MOBILE PLATFORMS AND APPLICATIONS
+-Mobile Device Operating Systems-Special Constrains & Requirements-Commercial Mobile Operating Systems-Software Development Kit: iOS, Android, BlackBerry, Windows Phone-MCommerce-Structure-Pros & Cons-Mobile Payment System-Security Issues.
